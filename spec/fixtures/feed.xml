@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel>
+        <title>CNN.com - Technology</title>
+        <link>http://www.cnn.com/TECH/index.html?eref=rss_tech</link>
+        <description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+        <language>en-US</language>
+        <copyright>Copyright 2016 Cable News Network LP, LLLP.</copyright>
+        <pubDate>Sun, 26 Jun 2016 20:21:47 EDT</pubDate>
+        <ttl>10</ttl>
+        <image>
+            <title>CNN.com - Technology</title>
+            <link>http://www.cnn.com/TECH/index.html?eref=rss_tech</link>
+            <url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+            <width>144</width>
+            <height>33</height>
+            <description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+        </image>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/edition_technology" />
+        <feedburner:info uri="rss/edition_technology" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+        <item>
+            <title>What if you could 3-D á print hair?</title>
+            <guid isPermaLink="false">http://www.cnn.com/2016/06/22/health/3d-printed-hair/index.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/pedBPDAjb4o/index.html</link>
+            <description>Any number of complicated things can be created in a matter of minutes with 3-D printer technology: weapons, robots, even pizza. But what if you could print hair?<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/pedBPDAjb4o" height="1" width="1" alt=""/></description>
+            <pubDate>Wed, 22 Jun 2016 13:59:58 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160621140123-3d-print-hair-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160621140123-3d-print-hair-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/2016/06/22/health/3d-printed-hair/index.html</feedburner:origLink>
+        </item>
+        <item>
+            <title>Dresses made from brain scans</title>
+            <guid isPermaLink="false">http://www.cnn.com/2016/06/21/fashion/london-technology-week-fashion/index.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/wKVghD3uT20/index.html</link>
+            <description>To showcase the focus on fashion of Europe's largest festival of technology this year, designer Brooke Roberts curated a selection of designs and prototypes from the forefront of London's fashion tech community.<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/wKVghD3uT20" height="1" width="1" alt=""/></description>
+            <pubDate>Thu, 23 Jun 2016 06:59:47 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160621140447-brooke-roberts-1-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160621140447-brooke-roberts-1-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/2016/06/21/fashion/london-technology-week-fashion/index.html</feedburner:origLink>
+        </item>
+        <item>
+            <title>China launches new carrier rocket</title>
+            <guid isPermaLink="false">http://www.cnn.com/2016/06/25/world/china-rocket-launch/index.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/NXwuaHQOkuE/index.html</link>
+            <description>China's next-generation carrier rocket blasted off from the country's new Wenchang space port Saturday, state-run Xinhua news agency reported.<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/NXwuaHQOkuE" height="1" width="1" alt=""/></description>
+            <pubDate>Sun, 26 Jun 2016 19:13:36 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160625114203-china-march-7---restricted-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160625114203-china-march-7---restricted-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/2016/06/25/world/china-rocket-launch/index.html</feedburner:origLink>
+        </item>
+        <item>
+            <title>Exoplanet hunter seeks life on other worlds</title>
+            <guid isPermaLink="false">http://www.cnn.com/2016/06/21/us/exoplanet-hunter-life-on-other-planets-irpt/index.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/FIQNf9EbzSc/index.html</link>
+            <description>The hunt for Earth-like planets has intensified as scientists search for potential life on other worlds.<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/FIQNf9EbzSc" height="1" width="1" alt=""/></description>
+            <pubDate>Fri, 24 Jun 2016 14:38:35 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160309125817-exoplanets-02-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160309125817-exoplanets-02-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/2016/06/21/us/exoplanet-hunter-life-on-other-planets-irpt/index.html</feedburner:origLink>
+        </item>
+        <item>
+            <title>Sculpture controlled by bees </title>
+            <guid isPermaLink="false">http://www.cnn.com/2016/06/20/arts/the-hive-wolfgang-buttress/index.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/ydWJfE4DtE0/index.html</link>
+            <description>Deep inside the Royal Botanical Gardens in London, a 40 ton steel sculpture has arisen in a peaceful wildflower meadow. The structure is called "The Hive" -- a 17 meter tall ode to the plight of honeybees, created by artist Wolfgang Buttress.<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/ydWJfE4DtE0" height="1" width="1" alt=""/></description>
+            <pubDate>Thu, 23 Jun 2016 07:23:26 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160620182525-hive-reupload-2-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160620182525-hive-reupload-2-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/2016/06/20/arts/the-hive-wolfgang-buttress/index.html</feedburner:origLink>
+        </item>
+        <item>
+            <title>2016 on pace to be the hottest year on record</title>
+            <guid isPermaLink="false">http://www.cnn.com/2016/06/18/health/2016-global-heat-noaa-report-irpt/index.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/eBTBM-qBZDM/index.html</link>
+            <description>The American Southwest isn't the only place feeling the heat.<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/eBTBM-qBZDM" height="1" width="1" alt=""/></description>
+            <pubDate>Fri, 24 Jun 2016 14:39:29 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160609210210-04-arctic-sea-ice-extent-may-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160609210210-04-arctic-sea-ice-extent-may-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/2016/06/18/health/2016-global-heat-noaa-report-irpt/index.html</feedburner:origLink>
+        </item>
+        <item>
+            <title>$1,000 device 3D-scans body fat</title>
+            <guid isPermaLink="false">http://www.cnn.com/video/data/2.0/video/cnnmoney/2016/06/24/naked-labs-body-scanner-cnnmoney.cnn.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/saSKuyjbUX4/naked-labs-body-scanner-cnnmoney.cnn.html</link>
+            <description>Naked Labs makes a 3D body scanner for your home. Founder Farhad Farahbakhshian tells CNN's Samuel Burke that the company's device will tell you if your diet or workout is making a difference, before you'd see results on a scale.<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/saSKuyjbUX4" height="1" width="1" alt=""/></description>
+            <pubDate>Fri, 24 Jun 2016 15:01:20 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160624101808-naked-labs-thumbnail-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160624101808-naked-labs-thumbnail-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/video/data/2.0/video/cnnmoney/2016/06/24/naked-labs-body-scanner-cnnmoney.cnn.html</feedburner:origLink>
+        </item>
+        <item>
+            <title>Futuristic pod will house you, feed you crickets</title>
+            <guid isPermaLink="false">http://www.cnn.com/2016/06/15/design/cricket-futuristic-pod/index.html</guid>
+            <link>http://rss.cnn.com/~r/rss/edition_technology/~3/cQIrF18XC-Q/index.html</link>
+            <description>Cricket bonbons and insect-infused vodka aren't words normally associated with Michelin-starred cuisine.<img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/cQIrF18XC-Q" height="1" width="1" alt=""/></description>
+            <pubDate>Fri, 17 Jun 2016 07:54:49 EDT</pubDate>
+            <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/160603124444-cricket-pod-14-top-tease.jpg" />
+            <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/160603124444-cricket-pod-14-top-tease.jpg" />
+            <feedburner:origLink>http://www.cnn.com/2016/06/15/design/cricket-futuristic-pod/index.html</feedburner:origLink>
+        </item>
+    </channel>
+</rss>
