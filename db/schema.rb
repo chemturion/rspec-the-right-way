@@ -11,6 +11,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 0) do
+ActiveRecord::Schema.define(version: 20160628175404) do
+
+  create_table "blogs", force: :cascade do |t|
+    t.string   "title"
+    t.string   "permalink"
+    t.string   "comments_feed_url"
+    t.datetime "created_at",        null: false
+    t.datetime "updated_at",        null: false
+  end
+
+  create_table "comments", force: :cascade do |t|
+    t.string   "title"
+    t.string   "link"
+    t.string   "commenter"
+    t.text     "description"
+    t.datetime "opined_at"
+    t.integer  "blog_id"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+  end
+
+  add_index "comments", ["blog_id"], name: "index_comments_on_blog_id"
 
 end
