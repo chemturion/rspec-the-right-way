@@ -3,6 +3,8 @@ class Blog < ActiveRecord::Base
   validates :title, presence: true, uniqueness: true
   validates :comments_feed_url, presence: true, uniqueness: true
 
+  scope :recent, -> { order(:created_at).reverse_order.limit(12)  }
+
   has_many :comments do
 
     def refresh

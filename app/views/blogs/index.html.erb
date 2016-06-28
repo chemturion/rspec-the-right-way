@@ -1,2 +1,6 @@
-<h1>Blogs#index</h1>
-<p>Find me in app/views/blogs/index.html.erb</p>
+<h1>Chase a blog all the way down</h1>
+<ul>
+<% recent_blogs.each do |blog| %>
+  <li><%= link_to blog.title, blog_path(blog) %></li>
+<% end %>
+</ul>

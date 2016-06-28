@@ -30,12 +30,14 @@ describe "Home Page" do
     end
 
     context "populated database" do
+
+      fixtures :blogs
+
       before(:each) { visit '/'  }
 
 
       it 'show a list of blogs' do
-       # pending "Need to write model tests first"
-       # expect(page).to have_selector 'li a', text: 'Mashable'
+        expect(page).to have_selector 'li a', text: 'Mashable'
       end
     end
 

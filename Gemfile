@@ -18,6 +18,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'guard-rspec', require: false
+  gem 'launchy'
 end
 
 group :development do
