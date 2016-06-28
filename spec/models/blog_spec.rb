@@ -32,6 +32,7 @@ RSpec.describe Blog, type: :model do
   describe 'refresh comments' do
 
     it 'populates comments' do
+      stub_network
       blog.save
       blog.comments.refresh
       expect(blog.comments.length).to eq 8
