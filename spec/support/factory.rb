@@ -13,6 +13,11 @@ module Factory
       }
     end
 
+    def create_comments blog
+      stub_network
+      blog.comments.refresh
+    end
+
   end
 
 end
