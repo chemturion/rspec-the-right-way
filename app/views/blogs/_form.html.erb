@@ -1,0 +1,10 @@
+<%= form_for blog do |f|%>
+
+  <%= f.label "Blog title", for:"blog_title" %>
+  <%= f.text_field :title, required: true %>
+
+  <%= f.label :comments_feed_url %>
+  <%= f.text_field :comments_feed_url, required:true, type:"url" %>
+
+  <%= f.submit "Create" %>
+<% end %>

@@ -41,6 +41,26 @@ describe "Home Page" do
       end
     end
 
+  end
+
+
+
+  describe "POST /blogs" do
+
+    before :each do 
+      stub_network
+
+      visit '/'
+      fill_in "Blog title", with: "Example"
+      fill_in "Comments feed url", with: "http://example.com/comments/feed"
+      click_on "Create"
+    end
+
+    let(:blog) { Blog.find_by(permalink: 'example') }
+
+    it 'creates a valid record' do
+      expect(blog).to be_valid
+    end
 
   end
 

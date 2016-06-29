@@ -19,8 +19,7 @@ describe "Blogs detail" do
     describe "individual comment" do
 
       it 'renders a link to the comment' do
-        save_and_open_page
-        link_text = ""
+        link_text = "What if you could 3-D print hair?"
         expect(page).to have_selector 'div.comment p a', text: link_text
       end
 

@@ -19,6 +19,7 @@ group :development, :test do
   gem 'capybara'
   gem 'guard-rspec', require: false
   gem 'launchy'
+  gem 'pry-rails'
 end
 
 group :development do
