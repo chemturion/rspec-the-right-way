@@ -11,7 +11,7 @@ class BlogsController < ApplicationController
   def create
     @blog = Blog.create(blog_params)
     @blog.comments.refresh
-    redirect_to blog_path @blog
+    redirect_to blog_url @blog
   end
 
 
