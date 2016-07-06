@@ -1,5 +1,5 @@
 class BlogsController < ApplicationController
-  
+
   helper_method :recent_blogs, :comments, :blog
 
   def index
@@ -15,7 +15,7 @@ class BlogsController < ApplicationController
   end
 
 
-  protected
+  private
 
   def recent_blogs
     Blog.recent
@@ -23,14 +23,13 @@ class BlogsController < ApplicationController
 
   def blog
     if params[:id]
-      Blog.find_by(permalink: params[:id])
+      Blog.find_by_permalink(params[:id])
     else
       Blog.new
     end
   end
 
   def comments
-    binding.pry
     blog.comments
   end
 
